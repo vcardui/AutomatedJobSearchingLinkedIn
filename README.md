@@ -22,7 +22,7 @@ https://github.com/vcardui/automatedJobSearchingLinkedIn/assets/145515264/3cdcbc
 
 - Web Scraping using **Selenium** (automated web testing tool). Learned how to use it’s classes and methods.
 - Gained an understanding of Xpaths and HTML tags, IDs and classes for finding elements in website
-- **Handled** Selenium **exceptions** that involved not finding and element (which resulted into program crashing)
+- **Handled** Selenium **exceptions** that involved not finding an element (which resulted into program crashing)
 - **Formatted data in HTML** in order to add emojis, bullets and colors for highlighting important information in email aided by **MIMEMultipart** library
 - Send automated email aided by **Smtplib**
 
