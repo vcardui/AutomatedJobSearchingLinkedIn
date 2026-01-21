@@ -50,10 +50,10 @@ computerEmoji = '&#128421;'
 officeEmoji = '&#127970;'
 
 # Email data
-carduibotEmail = "carduibot@gmail.com"
+carduibotEmail = ""
 carduibotPassword = ""
 
-myEmail = "vanessa@reteguin.com"
+myEmail = ""
 myLinkedInPassword = ""
 
 # --------------------------- Code ----------------------------
